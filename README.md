@@ -123,6 +123,5 @@ MIT — free to use, fork, and build on.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
-<sub>Built with ❤️ using Claude AI · SEC EDGAR data is public domain · Not financial advice</sub>
 
 </div>
